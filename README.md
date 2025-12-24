@@ -2,11 +2,9 @@
 
 This repository contains applied technical work focused on **model validation, system evaluation, usability analysis, and formal engineering documentation**.
 
-All projects are structured to reflect real-world engineering deliverables rather than academic exercises.
-
 ---
 
-## Featured Projects (Hiring-Ready)
+## Featured Projects  
 
 ### SVR vs ANN (Auto MPG) — Model Comparison & Validation
 **Focus:** predictive performance evaluation, diagnostics, and technical reporting  
@@ -30,3 +28,4 @@ All projects are structured to reflect real-world engineering deliverables rathe
 
 ## Contact
 GitHub: https://github.com/TheAzariaReed
+
