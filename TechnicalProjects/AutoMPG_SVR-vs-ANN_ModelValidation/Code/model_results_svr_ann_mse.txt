@@ -1,0 +1,6 @@
+Support Vector Regressor
+Mean Squared Error: 9.27383
+
+Artificial Neural Network
+Mean Squared Error: 7.38223
+
