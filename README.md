@@ -127,23 +127,6 @@ Foundational machine learning implementation focused on gradient descent optimiz
 
 ---
 
-# Technologies and Tools
-
-- Python
-- C#
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- XGBoost
-- Git
-- Playwright
-- Cesium
-- TypeScript
-- HTML/CSS
-
----
-
 # Repository Structure
 
 ```text
