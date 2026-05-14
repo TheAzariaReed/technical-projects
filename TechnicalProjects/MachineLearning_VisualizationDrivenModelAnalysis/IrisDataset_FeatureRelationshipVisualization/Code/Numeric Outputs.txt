@@ -1,0 +1,14 @@
+Input feature order: [sepal length (cm), sepal width (cm), petal width (cm)]
+Slopes (coef_): [0.6950645985019033, -0.6486869946240046, 1.4833247991441318]
+Intercept: -0.099447
+Chosen excluded sample index: 73
+Actual petal length: 4.700000
+Predicted petal length: 4.104114
+RMSE on test set: 0.320953
+Input feature order: [sepal length (cm), sepal width (cm), petal width (cm)]
+Slopes (coef_): [0.7228146259066683, -0.6358164939643193, 1.4675240315042082]
+Intercept: -0.262196
+Chosen excluded sample index: 73
+Actual petal length: 4.700000
+Predicted petal length: 4.127716
+RMSE on test set: 0.360578
